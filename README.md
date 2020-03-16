@@ -7,6 +7,8 @@ The training data are 128x128 images of weapons with transparent background(png 
 (The images tested are not uploaded to github due to copyrights.)<br />
 ## Results
 The model will produce 128x128 images of weapons.<br />
+![](https://i.imgur.com/L7FHOk5.png)
+
 ## Usage
 ### Prerequisite
 Place your training data under ./RealImages/.
